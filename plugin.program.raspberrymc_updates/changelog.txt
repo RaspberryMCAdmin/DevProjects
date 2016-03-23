@@ -1,0 +1,38 @@
+0.5.3
+New Video Addon
+    Exudos (by lambda)
+New Menu Shortcuts
+    Movies -> Exodus > Movies
+        Search -> Exodus > Movies > Search
+        Most Popular -> Exodus > Movies > Most Popular
+        Genres -> Exodus > Movies > Genres
+        Movies Rating -> Exodus > Movies > Certificates
+        Sort by Actor/Actress -> Exodus > Movies > People
+        Oscar Winners -> Exodus > Movies > Oscar Winners
+        In Theaters -> Exodus > Movies > In Theaters
+        More -> Exodus > Movies
+    TV Shows -> Exodus > TV Shows
+        Search -> Exodus > TV Shows > Search
+        Most Popular -> Exodus > TV Shows > Most Popular
+        Genres -> Exodus > TV Shows > Genres
+        TV Rating -> Exodus > TV Shows > Certificates
+        Networks -> Exodus > TV Shows > Networks
+        TV Calendar -> Exodus > TV Shows > TV Calendar
+        More -> Exodus > TV Shows
+
+0.5.2
+Replace Videos -> Genesis with
+    Videos -> Velocity
+
+0.5.1
+New Video Addon
+    Velocity
+
+0.5.0
+Initial RaspberryMC Update Addon
+
+New Setting Options:
+    Update Media Center
+    Update Addon Script Files
+    Enable Adult Content
+    Enable Debugging

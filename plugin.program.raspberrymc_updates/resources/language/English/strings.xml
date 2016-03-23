@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30000">Update Settings</string>
+  <string id="30001">Media Center Updates</string>
+  <string id="30002">Emulation Station Update Settings</string>
+  <string id="30003">Update Script Files</string>
+  <string id="30004">Enable Debugging</string>
+
+  <string id="30010">Custom User Options</string>
+  <string id="30011">Adult Content</string>
+
+</strings>
