@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="30000">
+        <setting id="push-mcUpdate" type="bool" label="30001" default="true"/>
+        <setting id="push-es-rom-updates" type="bool" label="30003" default="true"/>
+        <setting id="push-es-updates" type="bool" label="30002" default="true"/>
+        <setting type="sep"/>
+        <setting id="debug" type="bool" label="30005" default="false"/>
+    </category>
+    <category label="30010">
+        <setting id="push-adultcontent" type="bool" label="30011" default="false"/>
+    </category>
+
+</settings>

@@ -1,0 +1,9 @@
+# a list of files, folders or rules to exclude from updating
+
+plugin.program.raspberrymc_dev_pushUpdates/**
+plugin.video.uwc/**
+plugin.video.you.jizz/**
+
+#favourites.db
+#favorites.db
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+  <string id="30000">Push Update Settings</string>
+  <string id="30001">Push Media Center Updates</string>
+  <string id="30002">Push Emulation Station Update</string>
+  <string id="30003">Push Emulation Station ROM Update</string>
+  <string id="30005">Enable Debugging</string>
+
+  <string id="30010">Push Custom User Options</string>
+  <string id="30011">Push Adult Content</string>
+
+</strings>
