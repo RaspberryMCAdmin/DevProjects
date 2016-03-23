@@ -92,13 +92,13 @@ if dialog.yesno("Push Notifications", "Push Updates will overwrite cloud server 
 
 	if ADULTCONTENT == "true":
 		if os.path.isfile("/home/osmc/.kodi/addons/plugin.video.uwc/default.py"):
-			adultcontent()
+			#adultcontent()
 			dialog.notification('Push Notifications', 'Pushing Adult Content Updates', xbmcgui.NOTIFICATION_INFO, 7500)
 		
 		else:
 			if dialog.yesno("Push Notification", "Adult Content addons are currently not installed.  YOU WILL REMOVE FILES FROM CLOUD SEVER IF YOU PROCEED!!!", "Do you want to continue?"):
+				#adultcontent()
 				dialog.notification('Push Notifications', 'Pushing Adult Content Updates', xbmcgui.NOTIFICATION_INFO, 7500)
-				adultcontent()
 
 			
 	dialog.ok("Push Notification", "Push MediaCenter Updates Complete")
